@@ -1,2 +1,2 @@
-# landscape-design
-project for Oracle DB
+# landscape-design Oracle DB
+
